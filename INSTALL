@@ -1,0 +1,9 @@
+Building RockCoin
+
+See doc/readme-qt.rst for instructions on building RockCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RockCoin.
+
+See doc/build-*.txt for instructions on building RockCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RockCoin.
