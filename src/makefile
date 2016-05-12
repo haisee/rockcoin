@@ -150,10 +150,10 @@ OBJS= \
     obj/scrypt-x86_64.o
 
 
-all: rockcoind
+all: rockecoind
 
-test check: test_rockcoin FORCE
-	./test_rockcoin
+test check: test_rockecoin FORCE
+	./test_rockecoin
 
 # auto-generated dependencies:
 -include obj/*.P
@@ -185,7 +185,7 @@ obj/%.o: %.c
 	rm -f $(@:%.o=%.d)
 
 
-rockcoind: $(OBJS:obj/%=obj/%)
+rockecoind: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -197,11 +197,11 @@ obj-test/%.o: test/%.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-test_rockcoin: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
+test_rockecoin: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
 	$(LINK) $(xCXXFLAGS) -o $@ $(LIBPATHS) $^ -Wl,-B$(LMODE) -lboost_unit_test_framework $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f rockcoind test_rockcoin
+	-rm -f rockecoind test_rockecoin
 	-rm -f obj/*.o
 	-rm -f obj-test/*.o
 	-rm -f obj/*.P

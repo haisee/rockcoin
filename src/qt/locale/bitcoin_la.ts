@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About RockCoin</source>
-        <translation>Informatio de RockCoin</translation>
+        <source>About RockeCoin</source>
+        <translation>Informatio de RockeCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;RockCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;RockCoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;RockeCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;RockeCoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The RockCoin developers</source>
-        <translation>RockCoin curatores</translation>
+        <source>The RockeCoin developers</source>
+        <translation>RockeCoin curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your RockCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones RockCoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your RockeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones RockeCoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a RockCoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem RockCoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a RockeCoin address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem RockeCoin a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified RockCoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione RockCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified RockeCoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione RockeCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your RockCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your RockeCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>RockCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your corecoins from being stolen by malware infecting your computer.</source>
-        <translation>RockCoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>RockeCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your corecoins from being stolen by malware infecting your computer.</source>
+        <translation>RockeCoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about RockCoin</source>
-        <translation>Monstra informationem de RockCoin</translation>
+        <source>Show information about RockeCoin</source>
+        <translation>Monstra informationem de RockeCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a RockCoin address</source>
-        <translation>Mitte nummos ad inscriptionem RockCoin</translation>
+        <source>Send coins to a RockeCoin address</source>
+        <translation>Mitte nummos ad inscriptionem RockeCoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for RockCoin</source>
-        <translation>Muta configurationis optiones pro RockCoin</translation>
+        <source>Modify configuration options for RockeCoin</source>
+        <translation>Muta configurationis optiones pro RockeCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>RockCoin</source>
-        <translation>RockCoin</translation>
+        <source>RockeCoin</source>
+        <translation>RockeCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About RockCoin</source>
-        <translation>&amp;Informatio de RockCoin</translation>
+        <source>&amp;About RockeCoin</source>
+        <translation>&amp;Informatio de RockeCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your RockCoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus RockCoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your RockeCoin addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus RockeCoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified RockCoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus RockCoin</translation>
+        <source>Verify messages to ensure they were signed with specified RockeCoin addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus RockeCoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>RockCoin client</source>
-        <translation>RockCoin cliens</translation>
+        <source>RockeCoin client</source>
+        <translation>RockeCoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to RockCoin network</source>
-        <translation><numerusform>%n activa conexio ad rete RockCoin</numerusform><numerusform>%n activae conexiones ad rete RockCoin</numerusform></translation>
+        <source>%n active connection(s) to RockeCoin network</source>
+        <translation><numerusform>%n activa conexio ad rete RockeCoin</numerusform><numerusform>%n activae conexiones ad rete RockeCoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid RockCoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem RockCoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid RockeCoin address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem RockeCoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. RockCoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  RockCoin nondum pergere tute potest, et exibit.</translation>
+        <source>A fatal error occurred. RockeCoin can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  RockeCoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid RockCoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio RockCoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid RockeCoin address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio RockeCoin est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>RockCoin-Qt</source>
-        <translation>RockCoin-Qt</translation>
+        <source>RockeCoin-Qt</source>
+        <translation>RockeCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start RockCoin after logging in to the system.</source>
-        <translation>Pelle RockCoin per se postquam in systema inire.</translation>
+        <source>Automatically start RockeCoin after logging in to the system.</source>
+        <translation>Pelle RockeCoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start RockCoin on system login</source>
-        <translation>&amp;Pelle RockCoin cum inire systema</translation>
+        <source>&amp;Start RockeCoin on system login</source>
+        <translation>&amp;Pelle RockeCoin cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the RockCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis RockCoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the RockeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis RockeCoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the RockCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete RockCoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the RockeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete RockeCoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting RockCoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam RockCoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting RockeCoin.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam RockeCoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show RockCoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones RockCoin in enumeratione transactionum.</translation>
+        <source>Whether to show RockeCoin addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones RockeCoin in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting RockCoin.</source>
-        <translation>Haec configuratio effectiva erit postquam RockCoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting RockeCoin.</source>
+        <translation>Haec configuratio effectiva erit postquam RockeCoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the RockCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete RockCoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the RockeCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete RockeCoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,7 +1069,7 @@ Inscriptio: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start corecoin: click-to-pay handler</source>
-        <translation>RockCoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <translation>RockeCoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the RockCoin-Qt help message to get a list with possible RockCoin command-line options.</source>
-        <translation>Monstra nuntium auxilii RockCoin-Qt ut videas enumerationem possibilium optionum RockCoin mandati initiantis.</translation>
+        <source>Show the RockeCoin-Qt help message to get a list with possible RockeCoin command-line options.</source>
+        <translation>Monstra nuntium auxilii RockeCoin-Qt ut videas enumerationem possibilium optionum RockeCoin mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>RockCoin - Debug window</source>
-        <translation>RockCoin - Fenestra debug</translation>
+        <source>RockeCoin - Debug window</source>
+        <translation>RockeCoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>RockCoin Core</source>
-        <translation>RockCoin Nucleus</translation>
+        <source>RockeCoin Core</source>
+        <translation>RockeCoin Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the RockCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de RockCoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the RockeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de RockeCoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the RockCoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de RockCoin.</translation>
+        <source>Welcome to the RockeCoin RPC console.</source>
+        <translation>Bene ventio in terminale RPC de RockeCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a RockCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insero inscriptionem RockCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a RockeCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insero inscriptionem RockeCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this RockCoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem RockCoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this RockeCoin address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem RockeCoin a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified RockCoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione RockCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified RockeCoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione RockeCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a RockCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insere inscriptionem RockCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a RockeCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insere inscriptionem RockeCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter RockCoin signature</source>
-        <translation>Insere signationem RockCoin</translation>
+        <source>Enter RockeCoin signature</source>
+        <translation>Insere signationem RockeCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The RockCoin developers</source>
-        <translation>RockCoin curatores</translation>
+        <source>The RockeCoin developers</source>
+        <translation>RockeCoin curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2186,8 +2186,8 @@ Inscriptio: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>RockCoin version</source>
-        <translation>Versio de RockCoin</translation>
+        <source>RockeCoin version</source>
+        <translation>Versio de RockeCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2305,7 +2305,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;RockCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;RockeCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
@@ -2316,7 +2316,7 @@ rpcpassword=%s
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;RockCoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;RockeCoin Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;RockCoin Notificatio&quot; 
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. RockCoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  RockCoin probabiliter iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. RockeCoin is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  RockeCoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;RockCoin Notificatio&quot; 
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong RockCoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, RockCoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong RockeCoin will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, RockeCoin non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;RockCoin Notificatio&quot; 
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the RockCoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de RockCoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the RockeCoin Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de RockeCoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;RockCoin Notificatio&quot; 
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of RockCoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio RockCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of RockeCoin</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio RockeCoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart RockCoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle RockCoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart RockeCoin to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle RockeCoin ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;RockCoin Notificatio&quot; 
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. RockCoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  RockCoin probabiliter iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. RockeCoin is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  RockeCoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About RockCoin</source>
-        <translation>RockCoinist</translation>
+        <source>About RockeCoin</source>
+        <translation>RockeCoinist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;RockCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;RockCoini&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;RockeCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;RockeCoini&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The RockCoin developers</source>
+        <source>The RockeCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your RockCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad RockCoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your RockeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad RockeCoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a RockCoin address</source>
+        <source>Sign a message to prove you own a RockeCoin address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified RockCoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud RockCoini aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified RockeCoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud RockeCoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your RockCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu RockCoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your RockeCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu RockeCoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>RockCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your corecoins from being stolen by malware infecting your computer.</source>
-        <translation>RockCoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista corecoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>RockeCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your corecoins from being stolen by malware infecting your computer.</source>
+        <translation>RockeCoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista corecoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about RockCoin</source>
-        <translation>Kuva info RockCoini kohta</translation>
+        <source>Show information about RockeCoin</source>
+        <translation>Kuva info RockeCoini kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a RockCoin address</source>
-        <translation>Saada münte RockCoini aadressile</translation>
+        <source>Send coins to a RockeCoin address</source>
+        <translation>Saada münte RockeCoini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for RockCoin</source>
-        <translation>Muuda RockCoini seadeid</translation>
+        <source>Modify configuration options for RockeCoin</source>
+        <translation>Muuda RockeCoini seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>RockCoin</source>
-        <translation>RockCoin</translation>
+        <source>RockeCoin</source>
+        <translation>RockeCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About RockCoin</source>
-        <translation>%RockCoinist</translation>
+        <source>&amp;About RockeCoin</source>
+        <translation>%RockeCoinist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your RockCoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma RockCoini aadressiga</translation>
+        <source>Sign messages with your RockeCoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma RockeCoini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified RockCoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud RockCoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified RockeCoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud RockeCoini aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>RockCoin client</source>
-        <translation>RockCoini klient</translation>
+        <source>RockeCoin client</source>
+        <translation>RockeCoini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to RockCoin network</source>
-        <translation><numerusform>%n aktiivne ühendus RockCoini võrku</numerusform><numerusform>%n aktiivset ühendust RockCoini võrku</numerusform></translation>
+        <source>%n active connection(s) to RockeCoin network</source>
+        <translation><numerusform>%n aktiivne ühendus RockeCoini võrku</numerusform><numerusform>%n aktiivset ühendust RockeCoini võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid RockCoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu RockCoini aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid RockeCoin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu RockeCoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. RockCoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. RockCoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. RockeCoin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. RockeCoin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid RockCoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole RockCoinis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid RockeCoin address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole RockeCoinis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>RockCoin-Qt</source>
-        <translation>RockCoini-Qt</translation>
+        <source>RockeCoin-Qt</source>
+        <translation>RockeCoini-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start RockCoin after logging in to the system.</source>
-        <translation>Käivita RockCoin süsteemi logimisel.</translation>
+        <source>Automatically start RockeCoin after logging in to the system.</source>
+        <translation>Käivita RockeCoin süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start RockCoin on system login</source>
-        <translation>&amp;Start RockCoin sisselogimisel</translation>
+        <source>&amp;Start RockeCoin on system login</source>
+        <translation>&amp;Start RockeCoin sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the RockCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>RockCoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the RockeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>RockeCoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the RockCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta RockCoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the RockeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta RockeCoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting RockCoin.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub RockCoini käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting RockeCoin.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub RockeCoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show RockCoin addresses in the transaction list or not.</source>
-        <translation>Kuvada RockCoini aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show RockeCoin addresses in the transaction list or not.</source>
+        <translation>Kuvada RockeCoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting RockCoin.</source>
-        <translation>Tehtud valik rakendub RockCoini käivitamisel.</translation>
+        <source>This setting will take effect after restarting RockeCoin.</source>
+        <translation>Tehtud valik rakendub RockeCoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the RockCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the RockeCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start corecoin: click-to-pay handler</source>
-        <translation>RockCoin ei käivitu: vajuta-maksa toiming</translation>
+        <translation>RockeCoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the RockCoin-Qt help message to get a list with possible RockCoin command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks RockCoini-Qt abiteksti</translation>
+        <source>Show the RockeCoin-Qt help message to get a list with possible RockeCoin command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks RockeCoini-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>RockCoin - Debug window</source>
-        <translation>RockCoin - debugimise aken</translation>
+        <source>RockeCoin - Debug window</source>
+        <translation>RockeCoin - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>RockCoin Core</source>
-        <translation>RockCoini tuumik</translation>
+        <source>RockeCoin Core</source>
+        <translation>RockeCoini tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the RockCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava RockCoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the RockeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava RockeCoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the RockCoin RPC console.</source>
-        <translation>Teretulemast RockCoini RPC konsooli.</translation>
+        <source>Welcome to the RockeCoin RPC console.</source>
+        <translation>Teretulemast RockeCoini RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a RockCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta RockCoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a RockeCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Sisesta RockeCoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this RockCoin address</source>
-        <translation>Allkirjasta sõnum RockCoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this RockeCoin address</source>
+        <translation>Allkirjasta sõnum RockeCoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified RockCoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud RockCoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified RockeCoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud RockeCoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a RockCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta RockCoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a RockeCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Sisesta RockeCoini aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter RockCoin signature</source>
-        <translation>Sisesta RockCoini allkiri</translation>
+        <source>Enter RockeCoin signature</source>
+        <translation>Sisesta RockeCoini allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The RockCoin developers</source>
+        <source>The RockeCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2186,8 +2186,8 @@ Aadress: %4⏎</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>RockCoin version</source>
-        <translation>RockCoini versioon</translation>
+        <source>RockeCoin version</source>
+        <translation>RockeCoini versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2305,7 +2305,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;RockCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;RockeCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
@@ -2316,7 +2316,7 @@ rpcpassword=%s
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;RockCoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;RockeCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;RockCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. RockCoin is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on RockCoin juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. RockeCoin is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on RockeCoin juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;RockCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong RockCoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis RockCoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong RockeCoin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis RockeCoin ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;RockCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the RockCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata RockCoini Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the RockeCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata RockeCoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;RockCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of RockCoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab RockCoini uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of RockeCoin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab RockeCoini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart RockCoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita RockCoin</translation>
+        <source>Wallet needed to be rewritten: restart RockeCoin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita RockeCoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;RockCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. RockCoin is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. RockCoin juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. RockeCoin is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. RockeCoin juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

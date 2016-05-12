@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About RockCoin</source>
+        <source>About RockeCoin</source>
         <translation>关于联合国币</translation>
     </message>
     <message>
@@ -64,7 +64,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your RockCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your RockeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>这是您用来接收支付的联合国币地址列表。为不同的支付方建立不同的地址以便于了解支付来源。</translation>
     </message>
     <message>
@@ -79,7 +79,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a RockCoin address</source>
+        <source>Sign a message to prove you own a RockeCoin address</source>
         <translation>对信息进行签名以证明您对该联合国币地址的所有权</translation>
     </message>
     <message>
@@ -94,7 +94,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified RockCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified RockeCoin address</source>
         <translation>验证信息以保证其经过指定联合国币地址的签名</translation>
     </message>
     <message>
@@ -434,7 +434,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a RockCoin address</source>
+        <source>Send coins to a RockeCoin address</source>
         <translation>向指定的地址发送联合国币</translation>
     </message>
     <message>
@@ -489,7 +489,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About RockCoin</source>
+        <source>&amp;About RockeCoin</source>
         <translation>关于联合国币(&amp;A)</translation>
     </message>
     <message>
@@ -551,7 +551,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to RockCoin network.</source>
+        <source>%n active connection(s) to RockeCoin network.</source>
         <translation><numerusform>与联合国币网络建立了 %n 个连接</numerusform></translation>
     </message>
     <message>
@@ -1152,7 +1152,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start RockCoin on system login</source>
+        <source>&amp;Start RockeCoin on system login</source>
         <translation>开机时自动启动联合国币客户端(&amp;S)</translation>
     </message>
     <message>
@@ -1625,7 +1625,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the RockCoin RPC console.</source>
+        <source>Welcome to the RockeCoin RPC console.</source>
         <translation>欢迎使用联合国币RPC控制台。</translation>
     </message>
     <message>
@@ -1958,7 +1958,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a valid RockCoin address</source>
+        <source>Enter a valid RockeCoin address</source>
         <translation>输入一个联合国币地址 (例：SfBpCWW8Tgh2GTg5HN2cxkEcXTTuSeVJG2)</translation>
     </message>
 </context>
@@ -1983,7 +1983,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 
     <message>
         <location line="+18"/>
-        <source>Enter a valid RockCoin address</source>
+        <source>Enter a valid RockeCoin address</source>
         <translation>输入一个有效的联合国币地址(例：SfBpCWW8Tgh2GTg5HN2cxkEcXTTuSeVJG2 )</translation>
     </message>
 
@@ -2026,7 +2026,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this RockCoin address</source>
+        <source>Sign the message to prove you own this RockeCoin address</source>
         <translation>对该消息进行签名以证明您对该联合国币地址的所有权</translation>
     </message>
     <message>
@@ -2058,7 +2058,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified RockCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified RockeCoin address</source>
         <translation>确认该消息以保证它经由指定的联合国币地址签名</translation>
     </message>
     <message>
@@ -2079,7 +2079,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter RockCoin signature</source>
+        <source>Enter RockeCoin signature</source>
         <translation>输入联合国币签名</translation>
     </message>
     <message>
@@ -2684,8 +2684,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or RockCoind</source>
-        <translation>向-server服务器或RockCoind发送命令</translation>
+        <source>Send command to -server or RockeCoind</source>
+        <translation>向-server服务器或RockeCoind发送命令</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2707,13 +2707,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: RockCoin.conf)</source>
-        <translation>指定配置文件(默认: RockCoin.conf)</translation>
+        <source>Specify configuration file (default: RockeCoin.conf)</source>
+        <translation>指定配置文件(默认: RockeCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: RockCoind.pid)</source>
-        <translation>指定pid文件(默认: RockCoind.pid)</translation>
+        <source>Specify pid file (default: RockeCoind.pid)</source>
+        <translation>指定pid文件(默认: RockeCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3057,7 +3057,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=RockCoinrpc
+rpcuser=RockeCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3068,7 +3068,7 @@ for example: alertnotify=echo %%s | mail -s &quot;MintCoin Alert&quot; admin@foo
         <translation>%s, 必须在配置文件里设置rpc密码:
  %s
 建议使用如下的随机密码:
-rpcuser=RockCoinrpc
+rpcuser=RockeCoinrpc
 rpcpassword=%s
 (不需要记住该密码)
 用户名和密码不能重复。

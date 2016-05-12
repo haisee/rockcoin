@@ -5,8 +5,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About RockCoin</source>
-        <translation>RockCoin 코어 정보</translation>
+        <source>About RockeCoin</source>
+        <translation>RockeCoin 코어 정보</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -61,7 +61,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. 동봉된 COPYING.t
 
    <message>
    <location filename="../forms/addressbookpage.ui" line="-47"/>
-   <source>These are your RockCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+   <source>These are your RockeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
    <translation>여기에 UNcoin을 받을 수 있는 주소가 있습니다. 매 거래기록 마다 새로운 주소 사용을 권장합니다.</translation>
    </message>
 
@@ -112,12 +112,12 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. 동봉된 COPYING.t
 
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a RockCoin address</source>
+        <source>Sign a message to prove you own a RockeCoin address</source>
         <translation>당신이 주소를 소유 증명하기 위해 메시지 에 서명</translation>
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified RockCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified RockeCoin address</source>
         <translation>메시지가 CoreCoin 를 통해 지정된 주소 의 서명을 검증 메시지가 있는지 확인</translation>
     </message>
 
@@ -530,7 +530,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. 동봉된 COPYING.t
     </message>
     <message>
         <location line="-405"/>
-        <source>Send coins to a RockCoin address</source>
+        <source>Send coins to a RockeCoin address</source>
         <translation>UNcoin 주소로 코인 전송</translation>
     </message>
     <message>
@@ -667,8 +667,8 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. 동봉된 COPYING.t
     <message>
         <location line="+29"/>
         <location line="+2"/>
-        <source>&amp;About RockCoin</source>
-        <translation>RockCoin 코어 정보(&amp;A)</translation>
+        <source>&amp;About RockeCoin</source>
+        <translation>RockeCoin 코어 정보(&amp;A)</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1408,13 +1408,13 @@ Address: %4
 
     <message>
         <location line="-125"/>
-        <source>Automatically start RockCoin after logging in to the system.</source>
-        <translation>시스템 로그인 후 자동으로 RockCoin 코어를 시작합니다.</translation>
+        <source>Automatically start RockeCoin after logging in to the system.</source>
+        <translation>시스템 로그인 후 자동으로 RockeCoin 코어를 시작합니다.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start RockCoin on system login</source>
-	<translation>시스템 로그인 시 RockCoin 코어 시작(&amp;S)</translation>
+        <source>&amp;Start RockeCoin on system login</source>
+	<translation>시스템 로그인 시 RockeCoin 코어 시작(&amp;S)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1446,7 +1446,7 @@ Address: %4
     </message>
     <message>
         <location line="+160"/>
-        <source>Connect to the RockCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the RockeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>SOCKS 프록시를 통해 UNcoin 네트워크 연결</translation>
     </message>
     <message>
@@ -1521,7 +1521,7 @@ Address: %4
 
     <message>
         <location line="+17"/>
-        <source>Automatically open the RockCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the RockeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>라우터의 UNcoin 클라이언트 포트를 자동으로 엽니다. 라우터에서 UPnP를 지원하고 활성화 했을 경우에만 동작합니다.</translation>
     </message>
     <message>
@@ -1591,8 +1591,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting RockCoin.</source>
-        <translation>여기서 사용자에게 표시할 언어를 설정할 수 있습니다. 이 설정은 RockCoin 코어를 다시 시작할 때 적용됩니다.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting RockeCoin.</source>
+        <translation>여기서 사용자에게 표시할 언어를 설정할 수 있습니다. 이 설정은 RockeCoin 코어를 다시 시작할 때 적용됩니다.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1606,8 +1606,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show RockCoin addresses in the transaction list or not.</source>
-        <translation>거래기록 목록에 RockCoin 주소를 표시할 지의 여부입니다.</translation>
+        <source>Whether to show RockeCoin addresses in the transaction list or not.</source>
+        <translation>거래기록 목록에 RockeCoin 주소를 표시할 지의 여부입니다.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2027,8 +2027,8 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>Show the RockCoin-Qt help message to get a list with possible RockCoin command-line options.</source>
-        <translation>가능한 명령어-라인 옵션 목록을 RockCoin 코어 도움말 메시지에서 안내합니다.</translation>
+        <source>Show the RockeCoin-Qt help message to get a list with possible RockeCoin command-line options.</source>
+        <translation>가능한 명령어-라인 옵션 목록을 RockeCoin 코어 도움말 메시지에서 안내합니다.</translation>
     </message>
 
     <message>
@@ -2111,8 +2111,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the RockCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>현재 데이터 디렉토리의 RockCoin 디버그 로그 파일을 엽니다. 용량이 큰 로그 파일들은 몇 초가 걸릴 수 있습니다.</translation>
+        <source>Open the RockeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>현재 데이터 디렉토리의 RockeCoin 디버그 로그 파일을 엽니다. 용량이 큰 로그 파일들은 몇 초가 걸릴 수 있습니다.</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -2121,8 +2121,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-35"/>
-        <source>Welcome to the RockCoin RPC console.</source>
-        <translation>RockCoin 코어 RPC 콘솔에 오신걸 환영합니다</translation>
+        <source>Welcome to the RockeCoin RPC console.</source>
+        <translation>RockeCoin 코어 RPC 콘솔에 오신걸 환영합니다</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2664,13 +2664,13 @@ Address: %4
 
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a valid RockCoin address</source>
+        <source>Enter a valid RockeCoin address</source>
         <translation>올바른 주소를 입력 (등：RLW4vee2e4QdwGvXei2SVZdQfGCYyUKoJG)</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
         <source>Enter a UNcoin address (e.g. MrXW1RKLDe8VMNwTwLwSiKuATN5M74EL85)</source>
-        <translation>输入RockCoin地址(例如：SfBpCWW8Tgh2GTg5HN2cxkEcXTTuSeVJG2)</translation>
+        <translation>输入RockeCoin地址(例如：SfBpCWW8Tgh2GTg5HN2cxkEcXTTuSeVJG2)</translation>
     </message>
 
 
@@ -2821,8 +2821,8 @@ Address: %4
 
     <message>
         <location line="+18"/>
-        <source>Enter a valid RockCoin address</source>
-        <translation>유효한 RockCoin 주소를 입력</translation>
+        <source>Enter a valid RockeCoin address</source>
+        <translation>유효한 RockeCoin 주소를 입력</translation>
     </message>
 
     <message>
@@ -2877,7 +2877,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this RockCoin address</source>
+        <source>Sign the message to prove you own this RockeCoin address</source>
         <translation>메시지를 서명하여 이 UNcoin 주소를 가지고 있다는 것을 증명하세요</translation>
     </message>
     <message>
@@ -2914,7 +2914,7 @@ Address: %4
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified RockCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified RockeCoin address</source>
         <translation>메시지를 검증하여 지정된 UNcoin 주소로 서명되었는지 확인하세요.</translation>
     </message>
     <message>
@@ -2939,8 +2939,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter RockCoin signature</source>
-        <translation>서명을 RockCoin 입력</translation>
+        <source>Enter RockeCoin signature</source>
+        <translation>서명을 RockeCoin 입력</translation>
     </message>
 
     <message>

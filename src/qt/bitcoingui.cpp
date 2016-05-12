@@ -77,7 +77,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(850, 550);
-    setWindowTitle(tr("RockCoin") + " - " + tr("Wallet"));
+    setWindowTitle(tr("RockeCoin") + " - " + tr("Wallet"));
 #ifndef Q_OS_MAC
     qApp->setWindowIcon(QIcon(":icons/bitcoin"));
     setWindowIcon(QIcon(":icons/bitcoin"));
@@ -244,7 +244,7 @@ void BitcoinGUI::createActions()
     tabGroup->addAction(overviewAction);
 
     sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send coins"), this);
-    sendCoinsAction->setToolTip(tr("Send coins to a RockCoin address"));
+    sendCoinsAction->setToolTip(tr("Send coins to a RockeCoin address"));
 	sendCoinsAction->setStatusTip(sendCoinsAction->toolTip());
     sendCoinsAction->setCheckable(true);
     sendCoinsAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_2));
@@ -287,8 +287,8 @@ void BitcoinGUI::createActions()
 	quitAction->setStatusTip(quitAction->toolTip());
     quitAction->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_Q));
     quitAction->setMenuRole(QAction::QuitRole);
-    aboutAction = new QAction(QIcon(":/icons/bitcoin"), tr("&About RockCoin"), this);
-    aboutAction->setToolTip(tr("Show information about RockCoin"));
+    aboutAction = new QAction(QIcon(":/icons/bitcoin"), tr("&About RockeCoin"), this);
+    aboutAction->setToolTip(tr("Show information about RockeCoin"));
 	aboutAction->setStatusTip(aboutAction->toolTip());
     aboutAction->setMenuRole(QAction::AboutRole);
     aboutQtAction = new QAction(QIcon(":/trolltech/qmessagebox/images/qtlogo-64.png"), tr("About &Qt"), this);
@@ -296,7 +296,7 @@ void BitcoinGUI::createActions()
 	aboutQtAction->setStatusTip(aboutQtAction->toolTip());
     aboutQtAction->setMenuRole(QAction::AboutQtRole);
     optionsAction = new QAction(QIcon(":/icons/options"), tr("&Options..."), this);
-    optionsAction->setToolTip(tr("Modify configuration options for RockCoin"));
+    optionsAction->setToolTip(tr("Modify configuration options for RockeCoin"));
 	optionsAction->setStatusTip(optionsAction->toolTip());
     optionsAction->setMenuRole(QAction::PreferencesRole);
     toggleHideAction = new QAction(QIcon(":/icons/bitcoin"), tr("&Show / Hide"), this);
@@ -410,7 +410,7 @@ void BitcoinGUI::setClientModel(ClientModel *clientModel)
 #endif
             if(trayIcon)
             {
-                trayIcon->setToolTip(tr("RockCoin client") + QString(" ") + tr("[testnet]"));
+                trayIcon->setToolTip(tr("RockeCoin client") + QString(" ") + tr("[testnet]"));
                 trayIcon->setIcon(QIcon(":/icons/toolbar_testnet"));
                 toggleHideAction->setIcon(QIcon(":/icons/toolbar_testnet"));
             }
@@ -470,7 +470,7 @@ void BitcoinGUI::createTrayIcon()
     trayIcon = new QSystemTrayIcon(this);
     trayIconMenu = new QMenu(this);
     trayIcon->setContextMenu(trayIconMenu);
-    trayIcon->setToolTip(tr("RockCoin client"));
+    trayIcon->setToolTip(tr("RockeCoin client"));
     trayIcon->setIcon(QIcon(":/icons/toolbar"));
     connect(trayIcon, SIGNAL(activated(QSystemTrayIcon::ActivationReason)),
         this, SLOT(trayIconActivated(QSystemTrayIcon::ActivationReason)));
@@ -540,7 +540,7 @@ void BitcoinGUI::setNumConnections(int count)
     default: icon = ":/icons/connect_4"; break;
     }
     labelConnectionsIcon->setPixmap(QIcon(icon).pixmap(STATUSBAR_ICONSIZE,STATUSBAR_ICONSIZE));
-    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to RockCoin network.", "", count));
+    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to RockeCoin network.", "", count));
 }
 
 void BitcoinGUI::setNumBlocks(int count, int nTotalBlocks)
@@ -832,7 +832,7 @@ void BitcoinGUI::dropEvent(QDropEvent *event)
         if (nValidUrisFound)
             gotoSendCoinsPage();
         else
-            notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid RockCoin address or malformed URI parameters."));
+            notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid RockeCoin address or malformed URI parameters."));
     }
 
     event->acceptProposedAction();
@@ -847,13 +847,13 @@ void BitcoinGUI::handleURI(QString strURI)
         gotoSendCoinsPage();
     }
     else
-        notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid RockCoin address or malformed URI parameters."));
+        notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid RockeCoin address or malformed URI parameters."));
 }
 
 
 void BitcoinGUI::unlockWallet()
 {
-	 uiInterface.ThreadSafeMessageBox(_("This operation needs your wallet passphrase to unlock the wallet."), _("RockCoin"), CClientUIInterface::OK | CClientUIInterface::MODAL);
+	 uiInterface.ThreadSafeMessageBox(_("This operation needs your wallet passphrase to unlock the wallet."), _("RockeCoin"), CClientUIInterface::OK | CClientUIInterface::MODAL);
 }
 
 void BitcoinGUI::setEncryptionStatus(int status)
